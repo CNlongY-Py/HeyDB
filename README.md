@@ -1,5 +1,5 @@
 # HeyDB Docs
-> pip install HeyDB
+> pip install HeyDB  
 HeyDB是一个轻量化内嵌式NoSQL的数据库  
 具体数据存储结构:
 
